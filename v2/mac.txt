@@ -1,0 +1,2 @@
+0, None, None, None, 15, cam1galpao, None
+2, None, None, None, 15, cam2galpao, None
